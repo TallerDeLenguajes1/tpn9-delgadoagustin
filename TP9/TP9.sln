@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TP9", "TP9\TP9.csproj", "{E2868CC0-C7AE-4367-B92C-8503867AFE10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Morse-Texto", "Morse-Texto\Morse-Texto.csproj", "{69D888F4-00EF-495E-AEDD-24F241CE9108}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2868CC0-C7AE-4367-B92C-8503867AFE10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2868CC0-C7AE-4367-B92C-8503867AFE10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2868CC0-C7AE-4367-B92C-8503867AFE10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2868CC0-C7AE-4367-B92C-8503867AFE10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69D888F4-00EF-495E-AEDD-24F241CE9108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69D888F4-00EF-495E-AEDD-24F241CE9108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69D888F4-00EF-495E-AEDD-24F241CE9108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69D888F4-00EF-495E-AEDD-24F241CE9108}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0DC3619-FB1C-4DED-9B61-42F9DB595C15}
+	EndGlobalSection
+EndGlobal
